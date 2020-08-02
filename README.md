@@ -2,5 +2,3 @@
 
 # gitpod-tutorial
 
-Saurabh 
-this is a tutorial for git.
